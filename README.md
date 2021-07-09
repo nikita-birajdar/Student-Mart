@@ -9,10 +9,4 @@
 
 ### Server runs on http://localhost:5000 and client on http://localhost:3000
 
-### User interface 
 
-![alt](https://res.cloudinary.com/devatchannel/image/upload/v1599568147/test/1_pe9ism.png)
-
-### Admin interface 
-
-![alt](https://res.cloudinary.com/devatchannel/image/upload/v1599568148/test/2_obw2r7.png)
